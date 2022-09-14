@@ -38,3 +38,10 @@ Bidder Buddies is a real-time bidding system built with flutter and dart. It con
 * Firebase Authentication
 * Firebase Storage
 * Cloud Messaging
+
+## Screenshots of the working system
+
+![user3](https://user-images.githubusercontent.com/112566093/190137264-cf2d33f8-7380-4ef8-81cd-cc599cfef401.jpg)
+![user4](https://user-images.githubusercontent.com/112566093/190137280-43f85d76-fdd6-4c63-b8e3-16380e1c63aa.jpg)
+![user1](https://user-images.githubusercontent.com/112566093/190137289-206b9e67-baa0-48d7-b212-af406833f154.jpg)
+![user2](https://user-images.githubusercontent.com/112566093/190137298-2f5778de-04a1-41dd-a0de-a798a2376846.jpg)
